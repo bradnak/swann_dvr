@@ -1,2 +1,3 @@
-# swann_dvr
-Home Assistant integration for Swann DVR systems
+# Swann DVR for Home Assistant
+
+## Installation

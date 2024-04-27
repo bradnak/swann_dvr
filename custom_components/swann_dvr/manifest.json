@@ -1,0 +1,11 @@
+{
+  "codeowners": ["@bradnak"],
+  "config_flow": false,
+  "dependencies": [],
+  "documentation": "https://github.com/bradnak/swann_dvr",
+  "domain": "swann_dvr",
+  "iot_class": "local_polling",
+  "name": "Swann DVR",
+  "requirements": [],
+  "version": "1.0.0"
+}
